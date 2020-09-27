@@ -1,4 +1,4 @@
-my_colors = [color(240,18,5),color(100,240,200)]
+my_colors = [color(240,18,5),color(0,0,200)]
 which_color = 0
 
 def setup():
